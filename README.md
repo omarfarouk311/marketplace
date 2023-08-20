@@ -1,6 +1,6 @@
 <h1> Simple Marketplace Project </h1>
 
-This Project is a C++ application that simulates a basic marketplace platform. This project aims to showcase concepts of Data Structures and software development. 
+This Project is a C++ application that simulates a basic marketplace platform. The project aims to showcase concepts of Data Structures and software development. 
 The application allows users to register, log in, browse products, sell products, add items to their cart and proceed to checkout. 
 
 <h2> Features </h2>
