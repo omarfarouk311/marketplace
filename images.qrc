@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>cart.png</file>
+        <file>profilepic.png</file>
+        <file>SearchIcon.png</file>
+        <file>logo.jpg</file>
+        <file>login.png</file>
+        <file>assets/s1.png</file>
+        <file>assets/s2.png</file>
+        <file>assets/s3.png</file>
+        <file>assets/s4.png</file>
+        <file>assets/s5.png</file>
+        <file>assets/71yzJoE7WlL._AC_UF10001000_QL80__1_150x200.jpg</file>
+        <file>assets/s0.png</file>
+        <file>assets/login.png</file>
+        <file>assets/211686_back_arrow_icon.png</file>
+        <file>assets/pencil.png</file>
+        <file>assets/left arrow.png</file>
+        <file>assets/right arrow.png</file>
+        <file>assets/pngwing.com.png</file>
+        <file>assets/decrement.png</file>
+        <file>assets/increment.png</file>
+        <file>assets/trash.png</file>
+        <file>assets/calender.png</file>
+        <file>assets/star_off.png</file>
+        <file>assets/star_on.png</file>
+        <file>assets/books.jpg</file>
+        <file>assets/Furniture.jpg</file>
+        <file>assets/kidwear.jpeg</file>
+        <file>assets/sports.jpeg</file>
+        <file>assets/CommentImage.png</file>
+        <file>assets/beautiful-nature-g3c9f56029_1920.jpg</file>
+        <file>assets/vector-frames-black-on-a-white-background.png</file>
+        <file>assets/books.jpeg</file>
+        <file>assets/creditCards.png</file>
+        <file>assets/defaultLogo.jpg</file>
+        <file>assets/healthandpersonalcare.jpeg</file>
+        <file>assets/image2.png</file>
+        <file>assets/laptops.jpeg</file>
+        <file>assets/makeup.jpg</file>
+        <file>assets/Menwear.jpg</file>
+        <file>assets/mobilephones.jpeg</file>
+        <file>assets/petsupplies.jpeg</file>
+        <file>assets/pngegg.png</file>
+        <file>assets/pngwing.com_1.png</file>
+        <file>assets/tablets.jpeg</file>
+        <file>assets/videogames.jpeg</file>
+        <file>assets/womenwear.jpeg</file>
+    </qresource>
+</RCC>
